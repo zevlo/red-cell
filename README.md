@@ -38,14 +38,3 @@ Red Cell turns a plain‑language decision or plan into a structured red‑team 
 2. Red Cell generates risks, counterpoints, and mitigations.
 3. User edits and approves the final action plan.
 4. A report is saved and shared with stakeholders.
-
-## Success Criteria
-- Reduce time to identify high‑impact risks.
-- Improve cross‑team alignment and accountability.
-- Produce actionable, audit‑ready decision records.
-
-## Team
-Solo submission (open to collaborators).
-
-## Status
-Initial idea submission for the 10,000 AIdeas Competition.
